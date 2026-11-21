@@ -1,0 +1,9 @@
+output.jsonl
+sqlglot/
+.venv/
+__pycache__/
+*.pyc
+.coverage
+.coverage.*
+*.sqlite
+raw/
