@@ -1,0 +1,5 @@
+[run]
+parallel = True
+concurrency = multiprocessing
+sigterm = True
+source_pkgs = sqlglot
